@@ -14,3 +14,4 @@ docker container run -d -p 80:80 --name mobilenet mobilenet
 
 - [Live Demo](https://alehpineda.github.io/tfjs_image_classifier_demo/)
 
+[Alejandro H. Pineda](https://alehpineda.github.io/online-cv/)
